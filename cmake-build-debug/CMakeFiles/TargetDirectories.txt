@@ -1,0 +1,5 @@
+/Users/nikitasavelev/Documents/Github/myqt/cmake-build-debug/CMakeFiles/myqt.dir
+/Users/nikitasavelev/Documents/Github/myqt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikitasavelev/Documents/Github/myqt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nikitasavelev/Documents/Github/myqt/cmake-build-debug/CMakeFiles/myqt_autogen_timestamp_deps.dir
+/Users/nikitasavelev/Documents/Github/myqt/cmake-build-debug/CMakeFiles/myqt_autogen.dir
